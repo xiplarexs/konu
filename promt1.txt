@@ -1,0 +1,54 @@
+Ana konumuz : "konuburayagelcek"
+
+"Aşağıdaki yapıya uygun, 1000 kelimelik bilimsel ve mizahi betimleme oluştur:
+
+1. GİRİŞ (%20 - 200 kelime)
+Dikkat çekici açılış: İlginç bir soru veya şaşırtıcı bir istatistikle başla (Örn: "Biliyor muydunuz...?").
+
+Konunun önemi: Neden bu konunun şaşırtıcı/komik olduğunu açıkla.
+
+Mizahi dokunuş: Günlük hayattan esprili bir bağlantı kur (Örn: "İnsanların aksine...").
+
+2. GELİŞME (%60 - 600 kelime)
+A) Bilimsel Temel (300 kelime):
+
+Ana mekanizmayı/olayı teknik olarak açıkla (terimler kullan, ama basit anlat).
+
+Evrimsel veya fizyolojik nedenlerden bahset.
+
+B) Şaşırtıcı Detaylar (200 kelime):
+
+Az bilinen gerçekler ver (Örn: "Sadece 3 dakikada...").
+
+Hayvanlar/insanlar/teknoloji ile karşılaştır.
+
+C) Mizahi Yorumlar (100 kelime):
+
+Popüler kültür referansları ekle (Dizi/film/ünlü esprisi).
+
+Absürt senaryolar üret ("Peki ya... olsaydı?").
+
+3. SONUÇ (%20 - 200 kelime)
+Özet: Bilimsel çıkarımları tekrar vurgula.
+
+Final esprisi: Okuyucuyu güldüren bir cümle (Örn: "Yani... diyebiliriz!").
+
+Etkileşim sorusu: Okuyucuyu düşündüren bir soru sor ("Siz olsaydınız...?").
+
+TEKNİK DETAYLAR:
+Dil: Samimi, emojili (🎯, 🤯), akademik jargon yok.
+
+Başlık: "Şaşırtıcı Gerçek: [Konu] Nasıl Çalışır? (Spoiler: [Komik Twist])"
+
+Etiketler: #[Konu] #Bilim #Mizah #ŞaşırtıcıBilgi #Evrim
+
+Örnek Çıktı Yapısı:
+"Giriş: 'Dünyanın en tembel hayvanı olarak bilinen tembel hayvanlar...'
+Gelişme: 'Ağaçlarda ters asılı uyumalarının fizyolojik sırrı...'
+Sonuç: 'Belki de biz insanların 'yoğun tembellik' dönemlerinden öğreneceği şeyler var!'"
+
+sadece hikaye ile ilgili seyler yazalım gelen yanıt dırek kayıt olcak harici sorular cıkarımlar olmasın
+
+
+
+

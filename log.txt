@@ -1,0 +1,8 @@
+2025-03-30 00:02:16.975180 - ERROR: Directory konu not found!
+2025-03-30 00:02:16.975180 - No search queries found. Exiting.
+2025-03-30 00:17:32.247726 - ERROR: Directory konu not found!
+2025-03-30 00:17:32.247726 - No search queries found. Exiting.
+2025-03-30 00:18:09.829326 - ERROR: Directory konu not found!
+2025-03-30 00:18:09.829326 - No search queries found. Exiting.
+2025-03-30 00:51:12.307965 - ERROR: File konu/konu.txt not found!
+2025-03-30 00:51:12.307965 - No search queries found. Exiting.
